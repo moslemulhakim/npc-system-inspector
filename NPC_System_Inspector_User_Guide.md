@@ -4,7 +4,7 @@
 
 
 
-INTRODUCTION
+**INTRODUCTION**
 
 ================
 
@@ -16,7 +16,7 @@ This guide will walk you through the requirements, different ways to run the too
 
 
 
-REQUIREMENTS
+**REQUIREMENTS**
 
 ================
 
@@ -28,7 +28,7 @@ Permissions: The script MUST be run with Administrator privileges. This is neces
 
 
 
-HOW TO RUN THE TOOL
+**HOW TO RUN THE TOOL**
 
 ========================
 
@@ -120,23 +120,15 @@ The report is organized into collapsible sections. Click on any section header (
 
 Key Sections:
 
-\- System Summary: An at-a-glance overview of the most critical system components. This section is always visible.
-
-\- Operating System: Details about the Windows version, installation date, and activation status.
-
-\- Motherboard \& BIOS: Information about the mainboard, BIOS/UEFI version, and security settings like Secure Boot.
-
-\- Storage (Drives): A detailed list of all physical storage devices, including their category (SSD, HDD, USB), health status, and size. It also includes a breakdown of all disk partitions.
-
-\- Security Status: A crucial overview of the system's security posture, including the active antivirus and firewall, Windows Update status, and BitLocker encryption status.
-
-\- Mapped Network Drives \& Shared Folders: Important for security audits, these sections show connections to network resources and what is being shared from the local machine.
-
-\- Startup Programs: A list of applications that are configured to run automatically at login.
-
-\- Installed Software: A comprehensive list of all installed programs on the system.
-
-\- Recent System Errors: A log of the last 20 critical errors from the Windows Event Log, which is invaluable for troubleshooting.
+* System Summary: An at-a-glance overview of the most critical system components. This section is always visible.
+* Operating System: Details about the Windows version, installation date, and activation status.
+* Motherboard \& BIOS: Information about the mainboard, BIOS/UEFI version, and security settings like Secure Boot.
+* Storage (Drives): A detailed list of all physical storage devices, including their category (SSD, HDD, USB), health status, and size. It also includes a breakdown of all disk partitions.
+* Security Status: A crucial overview of the system's security posture, including the active antivirus and firewall, Windows Update status, and BitLocker encryption status.
+* Mapped Network Drives \& Shared Folders: Important for security audits, these sections show connections to network resources and what is being shared from the local machine.
+* Startup Programs: A list of applications that are configured to run automatically at login.
+* Installed Software: A comprehensive list of all installed programs on the system.
+* Recent System Errors: A log of the last 20 critical errors from the Windows Event Log, which is invaluable for troubleshooting.
 
 
 
